@@ -17,3 +17,5 @@ An example page containing common HTML5 elements for CSS testing purposes. Optio
 * < code >
 * < kbd >
 * < samp >
+* < cite >
+* < q >
