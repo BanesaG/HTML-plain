@@ -1,3 +1,3 @@
 # HTML5 Element Test Page
 
-Website using HTML5 elements
+An example page containing common HTML5 elements for CSS testing purposes. Optionally apply CSS from Primitive, Bootstrap, Foundation, Material, and Skeleton.
