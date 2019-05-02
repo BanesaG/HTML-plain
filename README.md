@@ -13,3 +13,5 @@ An example page containing common HTML5 elements for CSS testing purposes. Optio
 * < sub >
 * < del >
 * < ins >
+* < a >
+* < code >
