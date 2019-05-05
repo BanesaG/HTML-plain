@@ -49,3 +49,8 @@ An example page containing common HTML5 elements for CSS testing purposes. Optio
 * < input >
   - type="text"
   - type="password"
+  - type="url"
+  - type="phone"
+  - type="search"
+  - type="number"
+  - type="radio"
