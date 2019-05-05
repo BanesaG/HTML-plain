@@ -42,3 +42,7 @@ An example page containing common HTML5 elements for CSS testing purposes. Optio
 * < ul >
 * < dl >
 * < li >
+
+# Tables
+
+
