@@ -48,3 +48,4 @@ An example page containing common HTML5 elements for CSS testing purposes. Optio
 * < form >
 * < input >
   - type="text"
+  - type="password"
