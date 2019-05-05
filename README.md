@@ -62,3 +62,4 @@ An example page containing common HTML5 elements for CSS testing purposes. Optio
 * < fieldset >
 * < label >
 * < textarea >
+* < button >
