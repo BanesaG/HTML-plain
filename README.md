@@ -54,3 +54,5 @@ An example page containing common HTML5 elements for CSS testing purposes. Optio
   - type="search"
   - type="number"
   - type="radio"
+  - type="checkbox"
+  - type="button"
