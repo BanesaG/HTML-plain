@@ -59,3 +59,4 @@ An example page containing common HTML5 elements for CSS testing purposes. Optio
   - type="submit"
   - type="reset"
 * < select >
+* < fieldset >
