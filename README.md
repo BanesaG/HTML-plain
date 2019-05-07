@@ -64,6 +64,6 @@ An example page containing common HTML5 elements for CSS testing purposes. Optio
 * < textarea >
 * < button >
 
-# Deploym
+# Deployme
 
 [HTML5 Test](https://banesag.github.io/HTML5/)
