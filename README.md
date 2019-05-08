@@ -2,7 +2,7 @@
 
 An example page containing common HTML5 elements for CSS testing purposes. Optionally apply CSS from Primitive, Bootstrap, Foundation, Material, and Skeleton.
 
-# Formattin
+# Formatting
 
 * < b >
 * < strong >
